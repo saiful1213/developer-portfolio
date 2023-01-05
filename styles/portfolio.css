@@ -32,6 +32,7 @@
   background-image: url(../images/header_bg.png), url(../images/developer.png);
   background-repeat: no-repeat;
   background-position: bottom right, left;
+  background-size: 600px, 60px;
 }
 nav {
   display: flex;
@@ -66,7 +67,7 @@ nav {
 }
 
 .img {
-  height: 400px;
+  height: 300px;
 }
 
 .banner-title {
